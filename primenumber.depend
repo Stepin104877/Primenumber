@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1597388170 source:f:\4vv16ec098\primenumber\main.c
+	"test_primenumber.h"
+
+1597387074 f:\4vv16ec098\primenumber\test\test_primenumber.h
+
+1597386604 source:f:\4vv16ec098\primenumber\src\primenumber.c
+	"primenumber.h"
+
+1597386815 f:\4vv16ec098\primenumber\inc\primenumber.h
+
+1597389334 source:f:\4vv16ec098\primenumber\test\test_primenumber.c
+	"unity.h"
+	"primenumber.h"
+
+1597203192 f:\4vv16ec098\primenumber\unity\unity.h
+	"unity_internals.h"
+
+1597203192 f:\4vv16ec098\primenumber\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597203192 source:f:\4vv16ec098\primenumber\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
